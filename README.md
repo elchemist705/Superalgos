@@ -1,0 +1,2 @@
+# Superalgos
+Superalgos Trading Bot 
